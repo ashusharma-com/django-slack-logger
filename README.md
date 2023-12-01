@@ -9,7 +9,7 @@ Add **django-slack-logger** to your INSTALLED_APPS setting like this:
 ```
 INSTALLED_APPS = [
     ...
-    'django-slack-logger',
+    'django_slack_logger',
 ]
 ```
  Add **Slack Webhook URL** in settings.py file
